@@ -4,7 +4,9 @@
 int main(int argc, char** argv)
 
 {
+//修了cpp文件
  int a=0;
- return a;
+ int b=2;
+ return a+b;
 }
 
